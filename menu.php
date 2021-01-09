@@ -14,6 +14,8 @@
 					<option value="" class="label" value="">$ Us</option>
 					<option value="1">Dollar</option>
 					<option value="2">Euro</option>
+					<option value="2">Pound</option>
+					<option value="2">Singapore Dollar</option>
 				</select>
 			 </div>
 			 <ul class="header_user_info">
