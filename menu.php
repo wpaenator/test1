@@ -16,6 +16,7 @@
 					<option value="2">Euro</option>
 					<option value="2">Pound</option>
 					<option value="2">Singapore Dollar</option>
+					<option value="2">Thai Baht</option>
 				</select>
 			 </div>
 			 <ul class="header_user_info">
